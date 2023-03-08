@@ -1,0 +1,25 @@
+name: Ahram Son
+# dp: https://avatars2.githubusercontent.com/u/36638057?s=460&u=0cbe4fd6b5a3655d91b3eb86db834d0829a0c086&v=4
+description: "
+  <p>
+    Database Administrator (Oracle, MySQL, PostgreSQL, MongoDB)
+    <br/>
+    Backend QA
+  </p>
+  <br/>
+  <p>
+    You should follow him on <a href='https://github.com/arammy' target='_blank'>Github</a>
+  </P>
+"
+email: sonahram@hanmail.net
+contact:
+#   - title: linkedin
+#     url: https://www.linkedin.com/in/arammy
+#   - title: github
+#     url: https://github.com/arammy
+#   - title: twitter
+#     url: https://twitter.com/arammy
+#   - title: dev
+#     url: https://dev.to/arammy
+  - title: email
+    url: mailto:sonahram@hanmail.net
