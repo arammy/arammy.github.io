@@ -7,17 +7,19 @@ categories: ["MySQL"]
 
 20초 이상 수행된 Slow Query만 추출하기
 
-### SYMPTOMS
-
-> [^[mysql\]# cat slow.log-20200214 | perl slow-filter -T 20 &gt; slow.log-20200214.txt]: 
->
-> [mysql]# cd /MYSQL/LOG
->
-> [mysql]# cat slow.log-20200214 | perl slow-filter -T 20 > slow.log-20200214.txt
 
 
+### USAGE
 
-slow-filter
+```shell
+# 사용방법
+[mysql]# cd /MYSQL/LOG
+[mysql]# cat slow.log-20200214 | perl slow-filter -T 20 > slow.log-20200214.txt
+```
+
+
+
+### slow-filter
 
 ```perl
 #!/usr/bin/perl
