@@ -1,0 +1,63 @@
+h1 { 
+color: lightgreen;
+background-color: rosybrown;
+  text-align:center;
+  width: 550px; 
+  font-size: 30px; 
+  border-radius: 100px  
+}
+
+
+body{
+color: white;
+background-color: black;
+font-size: 15pt;
+}
+
+
+
+
+a{
+
+color: red; 
+  background-color: antiquewhite;
+ font-size: 15pt;
+}
+
+#id_selector{
+  background-color: lightgoldenrodyellow;
+}
+img{
+  height: 225px;
+    width : 250px;
+  margin: 20px;
+  border: 10px solid blue;
+  padding: 5px;
+  border-radius: 20px;
+  }
+
+/* The search bar and Button*/
+#special {
+  background-color: pink;
+  border: 3px solid black; 
+  border-radius: 10px;
+  color: white;
+  padding: 10px;
+  text-align: center;
+  cursor: progress; 
+
+  table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+
+  td, th {
+    border: 30px solid pink;
+    text-align: center;
+    padding: 8px;
+
+    
+  }
+
+}
